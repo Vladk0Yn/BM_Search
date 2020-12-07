@@ -52,7 +52,7 @@ label1: //Точка повернення в меню
         system("cls");
         cout <<'\t'<< "Ввод з клавіатури" << endl;
         my_str = KeyInput(my_str);
-        find_str = new unsigned char[NumberOfSymbols];//виділення пам'яті для підрядка
+        find_str = new unsigned char[NumberOfSymbols];//Виділення пам'яті для підрядка
         find_str[0] = '\0';
         system("pause");
         goto label1;
@@ -62,7 +62,7 @@ label1: //Точка повернення в меню
         system("cls");
         cout <<'\t'<<"Ввод з файлу" << endl;
         my_str = FileInput(my_str);
-        find_str = new unsigned char[NumberOfSymbols];//виділення пам'яті для підрядка
+        find_str = new unsigned char[NumberOfSymbols];//Виділення пам'яті для підрядка
         find_str[0] = '\0';//очищення масиву від 'сміття'
         system("pause");
         goto label1;
