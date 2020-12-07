@@ -1,0 +1,5 @@
+﻿  driver.cpp
+C:\Users\Vladk0\Desktop\study\cursach\BM_Search\BM_Search\driver.cpp(248,24): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Vladk0\Desktop\study\cursach\BM_Search\BM_Search\driver.cpp(277,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Vladk0\Desktop\study\cursach\BM_Search\BM_Search\driver.cpp(189): warning C4715: KeyProcessing: значение возвращается не при всех путях выполнения
+  BM_Search.vcxproj -> C:\Users\Vladk0\Desktop\study\cursach\BM_Search\Debug\BM_Search.exe
